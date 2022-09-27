@@ -23,6 +23,11 @@
 /*imagen de fondo con el texto*/
 .img-fluid {
     filter: brightness(50%);
+    height: fit-content;
+}
+
+h5 {
+    font-size: 1rem;
 }
 
 .translate-middle-y {
@@ -34,7 +39,9 @@
 }
 
 .textimg >.container-sm {
-    max-width: 530px;
+    max-width: 440px;
+    font-size: 0.8rem;
+    box-sizing: content-box;
 }
 
 
