@@ -1,0 +1,108 @@
+/*header*/
+.navbar >.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+    text-align: center;
+}
+
+.tickets {
+    color: rgba(56,115,67,255)
+}
+
+
+
+
+
+
+/*imagen de fondo con el texto*/
+.img-fluid {
+    filter: brightness(50%);
+}
+
+.translate-middle-y {
+    color: rgba(254,255,255,255);
+    text-align: right;
+    text-align-last: right;
+    padding-right: 60px;
+    margin-left: 20px;
+}
+
+.textimg >.container-sm {
+    max-width: 530px;
+}
+
+
+.greenbuttom {
+ background-color: rgba(39,166,70,255);
+}
+
+/* parte de las cards*/
+.roboto {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.btn {
+    font-weight: bold;
+    color: white;
+}
+
+.btn-warning {
+    color: black;
+}
+
+.card-title {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+    
+
+
+/* parte de la imagen de honolulu*/
+aside >.container {
+    max-width: 100%;
+}
+
+.honolulu-text {
+    background-color: rgba(52,57,63,255);
+    padding: 20px;
+    color: white;
+    font-size: 0.8rem;
+    border: 1px solid white;
+    margin-right: 0px;
+}
+
+/*articulo*/
+.puntitos {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;  
+  }
+
+.btn-green{
+    background-color: rgba(150,201,62,255);
+}
+
+
+/*footer*/
+footer {
+    background-color:rgba(28,81,112,255);
+}
+
+.colorlink {
+    color: white;
+}
+
+.text-junto {
+    line-height: 0.2rem;
+}
