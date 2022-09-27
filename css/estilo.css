@@ -104,13 +104,14 @@ aside >.container {
 /*footer*/
 footer {
     background-color:rgba(28,81,112,255);
+    padding-bottom: 25px;
 }
 
 .colorlink {
     color: white;
     font-size: 0.7rem;
     padding-left: 25px;
-    padding-right:25px
+    padding-right:25px;
 }
 
 .text-junto {
