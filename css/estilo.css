@@ -101,8 +101,12 @@ footer {
 
 .colorlink {
     color: white;
+    font-size: 0.8rem;
+    padding-left: 35px;
+    padding-right:35px
 }
 
 .text-junto {
+    padding-top: 30px;
     line-height: 0.2rem;
 }
